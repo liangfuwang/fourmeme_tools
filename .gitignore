@@ -32,6 +32,7 @@ images/*.jpeg
 images/*.gif
 !images/.gitkeep
 !images/screenshot.png
+!images/logo.png
 
 # IDE
 .vscode/

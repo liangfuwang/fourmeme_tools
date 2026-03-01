@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="200" alt="FourMeme Tools Logo">
+  <img src="images/logo.png" width="200" alt="FourMeme Tools Logo">
 </p>
 
 <h1 align="center">FourMeme Tools</h1>
