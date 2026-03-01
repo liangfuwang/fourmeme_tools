@@ -25,12 +25,13 @@ pyvenv.cfg
 # 日志文件
 *.log
 
-# 下载的图片
+# 下载的图片（运行时生成）
 images/*.jpg
 images/*.png
 images/*.jpeg
 images/*.gif
 !images/.gitkeep
+!images/screenshot.png
 
 # IDE
 .vscode/
