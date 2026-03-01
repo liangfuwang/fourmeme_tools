@@ -1,0 +1,49 @@
+# 环境变量（包含敏感信息）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+venv/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+
+# Telegram session 文件（包含登录凭证）
+*.session
+*.session-journal
+
+# 日志文件
+*.log
+
+# 下载的图片
+images/*.jpg
+images/*.png
+images/*.jpeg
+images/*.gif
+!images/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 部署脚本（私有）
+deploy.sh
+
+# macOS
+.DS_Store
+
+# CodeBuddy
+.codebuddy/

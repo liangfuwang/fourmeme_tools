@@ -1,0 +1,9 @@
+telethon>=1.36.0
+python-dotenv>=1.0.0
+openai>=1.30.0
+requests>=2.31.0
+web3>=7.0.0
+eth-account>=0.13.0
+eth-abi>=5.0.0
+Pillow>=10.0.0
+PyMySQL>=1.1.0
